@@ -98,15 +98,8 @@ Role         : Harmonizing industry codes across Compustat (SIC and NAICS), BDS
 
 
 
-================================================================================
-NOTES ON ACCESS AND CONFIDENTIALITY
-================================================================================
-- Compustat is the only proprietary input and cannot be redistributed. All
-  code that uses it is included; the data must be obtained independently via
-  WRDS.
-- All USPTO, Census BDS, KPST, and crosswalk inputs are public and can be
-  downloaded at no cost; download scripts and retrieval dates are provided.
-- No restricted-access Census microdata are used; all dynamism measures come
-  from published BDS tabulations.
+
+
+Place all these files in a subfolder called "Data", open "Paper.R" and adjust the working directory. Patent data is very large, hence will need couple of minutes to produce output.
 
 ================================================================================
