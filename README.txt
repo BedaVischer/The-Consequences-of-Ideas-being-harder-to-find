@@ -4,8 +4,7 @@ The Consequences of Ideas Being Harder to Find: Evidence from US Patents
 Beda Carl Vischer, London School of Economics (b.c.vischer@lse.ac.uk)
 ================================================================================
 
-This file specifies the data required to replicate the empirical and structural
-results in the paper. Data are organized by source. For each source we list the
+This file specifies the data required to replicate the empirical results in the paper. Data are organized by source. For each source I list the
 provider, access conditions, the variables drawn from it, and the role it plays
 in the analysis.
 
@@ -109,8 +108,5 @@ NOTES ON ACCESS AND CONFIDENTIALITY
   downloaded at no cost; download scripts and retrieval dates are provided.
 - No restricted-access Census microdata are used; all dynamism measures come
   from published BDS tabulations.
-- Polymarket data depend on retrieval date and applied liquidity filters; the
-  exact API queries, filter thresholds, and retrieval timestamps are logged in
-  the corresponding code.
 
 ================================================================================
